@@ -47,4 +47,13 @@ h4
 {
     font-size: large;
 }
-
+footer
+{
+    background-color: rgba(179, 198, 235, 0.679);
+    padding: 20px;
+    text-align: center;
+}
+.footer_section
+{
+    margin-bottom: 20px;
+}
