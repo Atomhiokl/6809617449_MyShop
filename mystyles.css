@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+html
+{
+    overflow:scroll;
+}
+body
+{
+    font-family: "caveat", serif;
+    color: aliceblue;
+    background-image: url('resources/Background.jpg');
+    background-size: cover;
+    font-size: 24px;
+
+}
+.head
+{
+    margin: 0px;
+    padding: 0px 0px;
+    text-align: center;
+}
+h1
+{
+    margin: 0px;
+}
+h4
+{
+    margin: 0px
+}
+
+.bread
+{
+    text-align:left;
+    margin: 10px 10px;
+}
+.image2x2 img 
+{
+      display: inline-block;
+      width: 29%;
+      margin: 10px;
+      vertical-align: top;
+}
+.sectiongap
+{
+  margin-bottom: 3099px 0;
+}
+.cost
+{
+    font-size: large;
+}
+
